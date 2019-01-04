@@ -1,0 +1,6 @@
+[submodule "src/qscintilla/qscintilla"]
+	path = src/qscintilla/qscintilla
+	url = https://github.com/kasunch/qscintilla.git
+[submodule "src/universalindent/universalindent"]
+	path = src/universalindent/universalindent
+	url = https://github.com/kasunch/universalindent.git
